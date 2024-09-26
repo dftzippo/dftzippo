@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Diego Flores (dftzippo)
 
-**Enthusiast of Technology | Student | Full Stack Developer**
+**Enthusiast of Technology | Student | System administrator**
 
 I'm Diego Flores, a passionate technology enthusiast from Honduras. I'm currently balancing my studies with my passion for web development, primarily focusing on backend, but I also dabble in frontend projects. My journey in tech has led me to explore various aspects of development, always eager to learn more and improve.
 
